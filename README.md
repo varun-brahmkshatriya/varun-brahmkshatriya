@@ -4,7 +4,7 @@
 
 Here I will post writeups of the challenges that I have solved with a brief explanation of each step. If you want to join this advanture, feel free to reach out to me. There is abundane of knowledge to give back to the community. 
 
-- 📫 How to reach me! I am reachable via linkedIn: https://www.linkedin.com/in/varun-brahmkshatriya/ , email: varun.brahmkshatriya@gmail.com
+- 📫 I am reachable via linkedIn: https://www.linkedin.com/in/varun-brahmkshatriya/ , email: varun.brahmkshatriya@gmail.com
 
 
 
